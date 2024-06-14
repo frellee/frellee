@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F779C1&center=true&vCenter=true&random=false&width=250&lines=Frond-end+Developer;Student+Leader;UI%2FUX+Designer"/>
 </p>
 
-<p>A passionate Front-End Developer and proactive student leader. I am a 20 year old Computer Science student with a fervor for front-end development and UI/UX design. As a student leader, I balance my academic responsibilities with a variety of side projects that fuel my growth as a developer. </p>
+<p>A passionate Front-End Developer and proactive student leader. I am a 20-year-old Computer Science student with a fervor for front-end development and UI/UX design. As a student leader, I balance my academic responsibilities with a variety of side projects that fuel my growth as a developer. </p>
 
 - I’m currently working on my personal website!
 ### Languages and Tools:
