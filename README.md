@@ -1,6 +1,7 @@
-## Hi, I am Hillary! 
+
 
 <p align="center">
+  ## Hi, I am Hillary! 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F779C1&random=false&width=435&lines=Frond-end+Developer;Student+Leader;UI%2FUX+Designer)](https://git.io/typing-svg)"/>
 </p>
 
