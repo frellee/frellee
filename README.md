@@ -1,5 +1,9 @@
 ## Hi, I am Hillary! 
 
+<p align="center">
+  <img src="(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F779C1&random=false&width=435&lines=Frond-end+Developer;Student+Leader;UI%2FUX+Designer)](https://git.io/typing-svg)"/>
+  
+
 ### Languages and Tools!
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
