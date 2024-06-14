@@ -1,4 +1,4 @@
-<p align="center">Hi, I am Hillary! </p>
+<h1 align="center">Hi, I am Hillary! </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F779C1&random=false&width=435&lines=Frond-end+Developer;Student+Leader;UI%2FUX+Designer"/>
 </p>
